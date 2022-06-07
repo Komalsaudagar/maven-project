@@ -1,6 +1,7 @@
 package stringprg;
 
 public class addition {
+	**************************************
 public static void main(String[] args) {
 	int i=12345;
 	int sum;
