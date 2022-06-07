@@ -1,6 +1,6 @@
 package stringprg;
 
-import java.util.Scanner;
+import java.util.Scanner;llll
 *********88************
 public class Armstrong_number {
 public static void main(String[] args) {
