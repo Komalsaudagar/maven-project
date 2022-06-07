@@ -1,7 +1,7 @@
 package stringprg;
 
 import java.util.Scanner;
-*********88************
+*********88************5555555555555555
 public class Armstrong_number {
 public static void main(String[] args) {
 	//armstrong number==153=1^3+5^3+3^3=1+125+27=153
