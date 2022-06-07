@@ -1,6 +1,7 @@
 package stringprg;
 
 public class binary_decimal {
+	*****************************
 	public static void main(String []args){
 		int n=1021;
 		int t=n;
