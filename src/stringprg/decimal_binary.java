@@ -1,5 +1,5 @@
 package stringprg;
-
+********************
 public class decimal_binary {
 	public static void main(String[]args){
 		int n=9;
